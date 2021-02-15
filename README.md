@@ -10,5 +10,5 @@ As [**Wikipedia**](https://en.wikipedia.org/wiki/Shell_(computing)) says:
 - implementation of **&&**
 - assigning a variable in the background
 
-## What did we used?
+## What did we use?
 We use Oracle *Virtual Box* and *Ubuntu* to create the virtual machine and *Sublime* for writing the code.
